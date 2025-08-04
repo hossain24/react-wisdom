@@ -11,7 +11,7 @@ export const homeObjOne = {
     alt: 'Globe',
     dark: true,
     primary: true,
-    darkText: false
+    darkText: true
 }
 
 export const homeObjTwo = {
@@ -61,6 +61,7 @@ export const homeObjFour = {
     primary: true,
     darkText: true
 }
+
 
 
 
