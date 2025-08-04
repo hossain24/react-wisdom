@@ -48,7 +48,7 @@ export const homeObjThree = {
 
 export const homeObjFour = {
     id: 'explore',
-    lightBg: false,
+    lightBg: true,
     lightText: false,
     lightTextDesc: false,
     topLine: 'Islamic Civilization',
@@ -61,6 +61,7 @@ export const homeObjFour = {
     primary: true,
     darkText: true
 }
+
 
 
 
