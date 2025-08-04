@@ -16,7 +16,7 @@ export const homeObjOne = {
 
 export const homeObjTwo = {
     id: 'know',
-    lightBg: false,
+    lightBg: true,
     lightText: false,
     lightTextDesc: false,
     topLine: 'Mainstream Media Propaganda',
@@ -61,6 +61,7 @@ export const homeObjFour = {
     primary: true,
     darkText: true
 }
+
 
 
 
