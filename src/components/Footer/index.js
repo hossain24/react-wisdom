@@ -34,34 +34,34 @@ const Footer = () => {
                 <FooterLinksContainer>
                     <FooterLinksWrapper>
                         <FooterLinkItems>
-                            <FooterLinkTitle>About</FooterLinkTitle>
-                            <FooterLink to="/signin">Essence</FooterLink>
-                            <FooterLink to="/signin">Search</FooterLink>
-                            <FooterLink to="/signin">Dogma</FooterLink>
-                            <FooterLink to="/signin">News</FooterLink>
+                            <FooterLinkTitle>News</FooterLinkTitle>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
                         </FooterLinkItems>
                         <FooterLinkItems>
-                            <FooterLinkTitle>About</FooterLinkTitle>
-                            <FooterLink to="/signin">Essence</FooterLink>
-                            <FooterLink to="/signin">Search</FooterLink>
-                            <FooterLink to="/signin">Dogma</FooterLink>
-                            <FooterLink to="/signin">News</FooterLink>
+                            <FooterLinkTitle>Update</FooterLinkTitle>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
                         </FooterLinkItems>
                     </FooterLinksWrapper>
                     <FooterLinksWrapper>
                         <FooterLinkItems>
-                            <FooterLinkTitle>About</FooterLinkTitle>
-                            <FooterLink to="/signin">Essence</FooterLink>
-                            <FooterLink to="/signin">Search</FooterLink>
-                            <FooterLink to="/signin">Dogma</FooterLink>
-                            <FooterLink to="/signin">News</FooterLink>
+                            <FooterLinkTitle>History</FooterLinkTitle>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
                         </FooterLinkItems>
                         <FooterLinkItems>
-                            <FooterLinkTitle>About</FooterLinkTitle>
-                            <FooterLink to="/signin">Essence</FooterLink>
-                            <FooterLink to="/signin">Search</FooterLink>
-                            <FooterLink to="/signin">Dogma</FooterLink>
-                            <FooterLink to="/signin">News</FooterLink>
+                            <FooterLinkTitle>Info</FooterLinkTitle>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
+                            <FooterLink to="/signin"></FooterLink>
                         </FooterLinkItems>
                     </FooterLinksWrapper>
                 </FooterLinksContainer>
