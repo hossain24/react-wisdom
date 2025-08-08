@@ -21,7 +21,7 @@ export const homeObjTwo = {
     lightTextDesc: false,
     topLine: '',
     headLine: 'Mainstream Media Propaganda',
-    description: 'Do science and Islam go together? <br /> Does Islam talk about science? <br /> Should we keep religion aside in our daily life? <br /> Is it ok to say we should not bring religion in each and every step of our daily life? <br /> Is it ok to say we should not bring religion into politics?',
+    description: 'Do science and Islam go together? Does Islam talk about science? Should we keep religion aside in our daily life? Is it ok to say we should not bring religion in each and every step of our daily life? Is it ok to say we should not bring religion into politics?',
     imgStart: true,
     img: require('../../images/svg-3.svg').default,
     alt: 'Book',
@@ -61,3 +61,4 @@ export const homeObjFour = {
     primary: true,
     darkText: true
 }
+
