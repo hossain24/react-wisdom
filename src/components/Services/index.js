@@ -19,18 +19,18 @@ const Services = () => {
             <ServicesWrapper>
                 <ServicesCard>
                     <ServicesIcon src={Icon1} />
-                    <ServicesH2>Think Wise</ServicesH2>
-                    <ServicesP>There is no ending of knowing.</ServicesP>
+                    <ServicesH2>READ</ServicesH2>
+                    <ServicesP></ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src={Icon2} />
-                    <ServicesH2>Think Wise</ServicesH2>
-                    <ServicesP>There is no ending of knowing.</ServicesP>
+                    <ServicesH2>THINK</ServicesH2>
+                    <ServicesP></ServicesP>
                 </ServicesCard>
                 <ServicesCard>
                     <ServicesIcon src={Icon3} />
-                    <ServicesH2>Think Wise</ServicesH2>
-                    <ServicesP>There is no ending of knowing.</ServicesP>
+                    <ServicesH2>DECIDE</ServicesH2>
+                    <ServicesP></ServicesP>
                 </ServicesCard>
             </ServicesWrapper>
         </ServicesContainer>
